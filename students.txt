@@ -1,0 +1,4 @@
+S101 Mayur Data Science 25000
+S102 Omkar Web development 40000
+101 Mayur Python 25000
+102 Omkar Javascript 40000
